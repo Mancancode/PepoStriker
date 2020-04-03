@@ -275,11 +275,13 @@ ul li:nth-child(3) a:hover .fa{
   }
   section .content p{
     font-size: 0.95em;
+    width: fit-content;
+    height: fit-content;
   }
   #parag{
     font-size: 0.75em;
     font-weight: 300;
-    width: fit-content;
+    
   }
  
   section .content{
