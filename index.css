@@ -277,9 +277,7 @@ ul li:nth-child(3) a:hover .fa{
   section .content p{
     font-size: 0.95em;
   }
-  #parag{
-    text-size-adjust: auto;
-  }
+ 
   section .content{
     padding: 80px ;
     margin-top: 50px;
