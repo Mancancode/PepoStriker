@@ -68,7 +68,8 @@ section .content p {
   font-size: 1rem;
   
   justify-content: center;
-  text-align: center;
+  text-align:center ;
+
 }
 
 
@@ -275,6 +276,9 @@ ul li:nth-child(3) a:hover .fa{
   }
   section .content p{
     font-size: 0.95em;
+  }
+  #parag{
+    text-size-adjust: auto;
   }
   section .content{
     padding: 80px ;
