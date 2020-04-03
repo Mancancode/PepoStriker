@@ -278,7 +278,8 @@ ul li:nth-child(3) a:hover .fa{
   }
   #parag{
     font-size: 0.75em;
-    font-weight: 100;
+    font-weight: 300;
+    width: fit-content;
   }
  
   section .content{
