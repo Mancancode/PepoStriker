@@ -66,11 +66,10 @@ section .content p {
 }
 #para{
   font-size: 1rem;
-  
   justify-content: center;
   text-align:center ;
-
 }
+
 
 
 /* Learn more button */
@@ -276,6 +275,11 @@ ul li:nth-child(3) a:hover .fa{
   }
   section .content p{
     font-size: 0.95em;
+  }
+  #parag{
+    font-size: 0.75em;
+    font-weight: 100;
+    font-display: center;
   }
  
   section .content{
