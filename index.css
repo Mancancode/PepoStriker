@@ -274,14 +274,14 @@ ul li:nth-child(3) a:hover .fa{
     font-size: 2rem;
   }
   section .content p{
-    font-size: 0.95em;
-    width: fit-content;
-    height: fit-content;
+    font-size: 0.75em;
+    
   }
   #parag{
     font-size: 0.75em;
     font-weight: 300;
-    
+    width: fit-content;
+    height: fit-content;
   }
  
   section .content{
