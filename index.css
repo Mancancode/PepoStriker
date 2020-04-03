@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
 
-* {
+body{
   box-sizing: border-box;
   font-family: 'Montserrat Alternates', 'Roboto Condensed', sans-serif;
    text-align: center;
@@ -279,9 +279,6 @@ ul li:nth-child(3) a:hover .fa{
   #parag{
     font-size: 0.75em;
     font-weight: 100;
-    font-display: center;
-    display: flex;
-    flex-wrap: wrap;
   }
  
   section .content{
