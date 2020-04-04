@@ -284,10 +284,10 @@ ul li:nth-child(3) a:hover .fa{
   }
   section .content p{
     
-    font-size: 1.2em;
-    font-weight: 500;
+    font-size: 1em;
+    font-weight: 400;
     align-items: center;
-    text-align: center;
+    text-align: justify;
     
   }
   section .content .paraga{
@@ -295,6 +295,8 @@ ul li:nth-child(3) a:hover .fa{
     font-weight: 400;
     align-items: center;
     text-align: justify;
+    padding-right: 20px;
+    padding-left:20px ;
 
     
   }
