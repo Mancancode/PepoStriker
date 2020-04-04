@@ -12,6 +12,7 @@ body{
 /* Sections */
 section {
   align-items: center;
+  text-align: justify;
   background: #2c003e;
   display: flex;
   justify-content: space-between;
@@ -282,11 +283,8 @@ ul li:nth-child(3) a:hover .fa{
   #parag{
     font-size: 1.2em;
     font-weight: 500;
-    padding-right: 10;
-    padding-left: 10;
-    
-  
-    
+    padding-left: 10px;
+    padding-right: 10px;
   }
  
   section .content{
