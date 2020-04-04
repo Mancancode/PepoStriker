@@ -25,11 +25,7 @@ section {
    align-items: center;
    text-align: center;
 }
-section .content.tab{
-  padding-right: 20px;
-  align-items: center;
-   text-align: center;
-}
+
 
 section::before {
   content: '';
@@ -293,6 +289,9 @@ ul li:nth-child(3) a:hover .fa{
   #parag{
     font-size: 1.2em;
     font-weight: 500;
+    align-items: center;
+    text-align: justify;
+
     
   }
  
