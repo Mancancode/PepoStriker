@@ -11,14 +11,18 @@ body{
 
 /* Sections */
 section {
-  align-items: center;
-  text-align: justify;
+  align-items: justify;
+  
   background: #2c003e;
   display: flex;
   justify-content: space-between;
   min-height: 100vh;
   position: relative;
   width: 100%;
+}
+#costermers{
+   align-items: center;
+   text-align: center;
 }
 
 section::before {
@@ -283,8 +287,7 @@ ul li:nth-child(3) a:hover .fa{
   #parag{
     font-size: 1.2em;
     font-weight: 500;
-    padding-left: 10px;
-    padding-right: 10px;
+    
   }
  
   section .content{
