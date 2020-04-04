@@ -24,6 +24,11 @@ section {
    align-items: center;
    text-align: center;
 }
+section .content .tab{
+  padding-right: 20px;
+  align-items: center;
+   text-align: center;
+}
 
 section::before {
   content: '';
