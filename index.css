@@ -2,15 +2,16 @@
 
 body{
   box-sizing: border-box;
-  font-family: 'Montserrat Alternates', 'Roboto Condensed', sans-serif;
-   text-align: center;
+  font-family: 'Roboto Condensed', 'Open Sans';
+  font-family: 'Montserrat Alternates', 'Open Sans';
+   text-align: justify;
   margin: 0;
   padding: 0;
 }
 
 /* Sections */
 section {
-  align-items: center;
+  align-items: justify;
   background: #2c003e;
   display: flex;
   justify-content: space-between;
@@ -46,11 +47,12 @@ section .content {
 
 section .content h2 {
   color: rgb(255, 255, 255);
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 800;
   
 }
 section .content h1 {
+  
   color: rgb(160, 234, 240);
   font-size: 1rem;
   font-weight: 400;
@@ -61,7 +63,7 @@ section .content h1 {
 
 section .content p {
   color: #fff;
-  font-size: 1.rem;
+  font-size: 1rem;
   
 }
 #para{
@@ -278,10 +280,12 @@ ul li:nth-child(3) a:hover .fa{
     
   }
   #parag{
-    font-size: 0.75em;
-    font-weight: 300;
-    width: fit-content;
-    height: fit-content;
+    font-size: 1.5em;
+    font-weight: 500;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    
   }
  
   section .content{
