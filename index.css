@@ -11,7 +11,7 @@ body{
 
 /* Sections */
 section {
-  
+  align-items: center;
   background: #2c003e;
   display: flex;
   justify-content: space-between;
