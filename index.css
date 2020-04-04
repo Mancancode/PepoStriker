@@ -5,6 +5,8 @@ body{
   font-family: 'Roboto Condensed', 'Open Sans';
   font-family: 'Montserrat Alternates', 'Open Sans';
    text-align: center;
+   align-items: center;
+
   margin: 0;
   padding: 0;
 }
