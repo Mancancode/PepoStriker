@@ -4,14 +4,14 @@ body{
   box-sizing: border-box;
   font-family: 'Roboto Condensed', 'Open Sans';
   font-family: 'Montserrat Alternates', 'Open Sans';
-   text-align: justify;
+   text-align: center;
   margin: 0;
   padding: 0;
 }
 
 /* Sections */
 section {
-  align-items: justify;
+  align-items: center;
   background: #2c003e;
   display: flex;
   justify-content: space-between;
@@ -23,7 +23,7 @@ section {
    align-items: center;
    text-align: center;
 }
-section .content > .tab{
+section .content.tab{
   padding-right: 20px;
   align-items: center;
    text-align: center;
