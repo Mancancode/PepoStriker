@@ -44,7 +44,7 @@ section::before {
 
 section .content {
   box-sizing: border-box;
-  padding: 100px 50px 100px 150px;
+  padding: 100px 50px 100px 50px;
   position: relative;
   animation-delay: 1.5s;
   animation: left-in 2.5s ease-in;
@@ -136,10 +136,7 @@ section .imgBox img {
   margin-right: 30px;
   padding: 6px;
   text-decoration: none;
-  
   box-sizing: border-box;
- 
-  
   transition: .5s;
 }
 
@@ -150,7 +147,6 @@ section .imgBox img {
   width: 100%;
   height: 100%;
   display: block;
-  
   line-height: cal(45px - 12px);
   color: white;
   transition: .5s;
@@ -294,15 +290,13 @@ ul li:nth-child(3) a:hover .fa{
     font-size: 1.2em;
     font-weight: 500;
     align-items: center;
-    text-align: center;
-
-
-    
+    text-align: center;  
   }
  
   section .content{
     padding: 80px ;
     margin-top: 50px;
+    width: 80vw;
   }
   section .content a{
     font-size: 0.8rem;
