@@ -258,7 +258,7 @@ ul li:nth-child(3) a:hover .fa{
     z-index: 11;
     border: none;
     padding:10px 0;
-    justify-content:space-evenly;
+    justify-content:flex-start;
     transition: transform 50ms;
     transform: translateX(open);
   
