@@ -172,7 +172,7 @@ ul li:nth-child(3) a:hover .fa{
   padding-left: 20px;
   position: absolute;
   top: 75px;
-  animation-delay:5s;
+  animation-delay: 1.5s;
   animation: left-in 2s ease-in;
   
 }
@@ -246,7 +246,8 @@ ul li:nth-child(3) a:hover .fa{
   }
  
   /* Navbar of the hambuger button*/
-  #nav{
+  .nav{
+    display: none;
     position: fixed;
     top: 0;
     left:0;
@@ -258,11 +259,11 @@ ul li:nth-child(3) a:hover .fa{
     border: none;
     padding:10px 0;
     justify-content:space-evenly;
-    transition: transform 500ms;
+    transition: transform 50ms;
     transform: translateX(open);
   
   }
-  #nav.open{
+  .nav .open{
       transform: translateX(0);
       left: -1000px;
   }
@@ -289,12 +290,6 @@ ul li:nth-child(3) a:hover .fa{
     padding-left: 50px;
     
   }
-  section .content .par{
-    padding: 5px;
-    text-align: justify;
-    font-weight: 500;
-    
-  }
  
   section .content{
     padding: 80px ;
@@ -309,7 +304,7 @@ ul li:nth-child(3) a:hover .fa{
     max-width: 300px;
   }
   .soc{
-    left: 50px;
+    left: 100px;
     bottom: 30px;
   }
   section::before{
