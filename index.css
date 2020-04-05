@@ -283,14 +283,8 @@ ul li:nth-child(3) a:hover .fa{
     font-size: 1em;
     font-weight: 400;
     align-items: center;
-    text-align: justify;
+    text-align: center;
     
-  }
-  section .content .paraga{
-    font-size: 1.2em;
-    font-weight: 500;
-    align-items: center;
-    text-align: center;  
   }
  
   section .content{
