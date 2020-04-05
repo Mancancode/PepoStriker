@@ -290,7 +290,7 @@ ul li:nth-child(3) a:hover .fa{
     
   }
   section .content .par{
-    padding: 20px;
+    padding: 10px;
     text-align: justify;
   }
  
@@ -307,7 +307,7 @@ ul li:nth-child(3) a:hover .fa{
     max-width: 300px;
   }
   .soc{
-    left: 100px;
+    left: 60px;
     bottom: 30px;
   }
   section::before{
