@@ -44,7 +44,7 @@ section::before {
 
 section .content {
   box-sizing: border-box;
-  padding: 100px 50px 100px 90px;
+  padding: 100px 50px 100px 100px;
   position: relative;
   animation-delay: 1.5s;
   animation: left-in 2.5s ease-in;
@@ -296,7 +296,7 @@ ul li:nth-child(3) a:hover .fa{
   section .content{
     padding: 80px ;
     margin-top: 50px;
-    width: 80vw;
+    width: 90vw;
   }
   section .content a{
     font-size: 0.8rem;
