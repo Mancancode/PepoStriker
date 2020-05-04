@@ -41,6 +41,18 @@ section::before {
   animation: fade-in 2.5s ease-in;
   
 }
+/*for the big pope 19 */
+section .sect::after{
+  content: 'POPE 19';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 18vw;
+  z-index: -2;
+  font-weight: 700;
+  color: #fff;
+  opacity: 0.2;
+}
 
 section .content {
   box-sizing: border-box;
